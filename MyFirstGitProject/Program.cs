@@ -10,6 +10,7 @@ namespace MyFirstGitProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Kacsa");
         }
     }
 }
